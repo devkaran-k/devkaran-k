@@ -1,6 +1,5 @@
 ![logo](https://wallpaperaccess.com/full/5673719.jpg)
 
-
 <h1 align="center">Hi 👋, I'm Devkaran K Vaghasiya</h1>
 <h3 align="center">"An enthusiastic student aspiring to master web development, hailing from India."</h3>
 <img align="right" alt="coding" width="400" src="https://tooncharacters.com/cdn/shop/products/jax-featured-gif.gif?v=1602072267">
@@ -18,7 +17,6 @@
 - 📫 How to reach me **devkkaran.keshav@gmail.com**
 
 - ⚡ Fun fact **I am Pro At Coding. 😎**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devkaran k vaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkaran k vaghasiya" height="30" width="40" /></a>
